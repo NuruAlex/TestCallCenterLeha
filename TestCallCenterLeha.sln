@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCallCenterLeha", "TestCallCenterLeha\TestCallCenterLeha.csproj", "{8CEF29CD-C50B-4D7A-AF4C-AA85F18289CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{D7E200C4-94CA-41FE-AC87-A5B71576BC36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8CEF29CD-C50B-4D7A-AF4C-AA85F18289CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CEF29CD-C50B-4D7A-AF4C-AA85F18289CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CEF29CD-C50B-4D7A-AF4C-AA85F18289CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E200C4-94CA-41FE-AC87-A5B71576BC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E200C4-94CA-41FE-AC87-A5B71576BC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E200C4-94CA-41FE-AC87-A5B71576BC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E200C4-94CA-41FE-AC87-A5B71576BC36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
